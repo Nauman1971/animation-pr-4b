@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+}
+
+.letters-wrapper {
+  text-align: center;
+  margin-top: 100px;
+}
+.letter {
+  font-family: 'Arial Black';
+  font-size: 70px;
+  font-weight: bold;
+  color: #444;
+  display: inline-block;
+  position: relative;
+}
+
+.red {color: #c23;}
+.green {color: #4a2;}
+.blue {color: #00f;}
+.orange {color: #f84;}
+.purple {color: #909;}
+
+.feat-btns {
+  margin-top: 300px;
+}
+.icons {
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
